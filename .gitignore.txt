@@ -1,0 +1,7 @@
+.env
+token.json
+templates.db
+.streamlit/secrets.toml
+
+__pycache__/
+*.py[cod]
